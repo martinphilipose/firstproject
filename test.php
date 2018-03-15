@@ -1,0 +1,3 @@
+<?php
+die('m called');
+?>
